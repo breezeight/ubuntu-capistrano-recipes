@@ -1,0 +1,2 @@
+To install the recipes:
+git submodule add git://mirna/m31_capistrano vendor/plugins/m31_capistrano
